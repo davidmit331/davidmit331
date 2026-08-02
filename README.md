@@ -78,8 +78,8 @@ I run **operations and IT for a regional e-commerce group** across Serbia, North
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidmit331&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmit331&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidmit331&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidmit331&theme=tokyonight" />
 </p>
 
 <p align="center">
